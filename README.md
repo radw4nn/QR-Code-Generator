@@ -31,8 +31,6 @@ The QR Code Generator app allows users to easily generate QR codes for text or U
 
 3. **View QR Code:** The generated QR code will appear below the input box. You can scan this QR code using a QR code scanner app on your mobile device.
 
-4. **Customize QR Code (Optional):** Optionally, you can customize the QR code by selecting different colors and adjusting the size using the options provided.
-
 ## Important Notes ⚠️
 
 - For URLs, make sure to include the complete URL including the protocol (e.g., `https://example.com`).
