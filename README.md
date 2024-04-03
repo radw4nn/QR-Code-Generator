@@ -40,7 +40,7 @@ The QR Code Generator app allows users to easily generate QR codes for text or U
 
 ## Try it Online 💻
 
-You can try the QR Code Generator application online by following [this link]().
+You can try the QR Code Generator application online by following [this link](https://radw4nn.github.io/QR-Code-Generator/).
 
 ## Feedback and Support
 
